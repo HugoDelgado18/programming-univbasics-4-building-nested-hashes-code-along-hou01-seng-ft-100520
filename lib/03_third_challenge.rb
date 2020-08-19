@@ -27,7 +27,7 @@ def third_challenge
       :heroine => {
         name: "Juliet", age: 15, status: "Alive"
         #your key/value pairs here
-        },
+        }
       :heroine_friends => ["Steven", "Nurse"]
    }
   }
